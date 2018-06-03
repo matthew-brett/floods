@@ -43,3 +43,8 @@
     > The Met Office said a site at Winterbourne, in Edgbaston, recorded 58mm
     > of rainfall in just one hour on Sunday afternoon, and 81mm in a 12-hour
     > period.
+
+## Weather changes
+
+* [Extreme rainfall in the UK 'increasing'](http://www.bbc.co.uk/news/uk-20896049)
+* [Evidence 'links warnings to storms'](http://www.bbc.co.uk/news/uk-politics-26084625)
